@@ -25,8 +25,8 @@ Coral is a Laravel 10 + Livewire 2 application that lets analysts draw custom ma
 
 ```bash
 # 1. Clone the repo
- git clone https://github.com/your-org/coral.git
- cd coral
+ git clone https://github.com/praneetmohnot/code_assessment_ps.git
+ cd code_assessment_ps
 
 # 2. Install PHP dependencies
  composer install
